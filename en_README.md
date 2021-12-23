@@ -1,4 +1,4 @@
-# RuARG-2022
+# RuArg-2022
 
 # Argument mining evaluation
 
