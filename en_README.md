@@ -18,10 +18,10 @@ A collection of sentences was gathered from social networks – comments on post
 
 Each sentence was annotated by stance and premise for all three claims. Thus, each sentence has six labels.
 The following classes (labels) were used:
--	“for”;
--	“against”;
--	“other” (for stance, this class merges classes “neutral”, “unclear” or “for and against”) / “no argument” (for a premise);
--	"irrelevant" (for this claim).
+-	“for” (2);
+-	“against” (0);
+-	“other” (1) (for stance, this class merges classes “neutral”, “unclear” or “for and against”) / “no argument” (for a premise);
+-	"irrelevant" (-1) (for this claim).
 
 The annotated sentences were divided into three corpora: training, validation, and test.
 After the announcement of the evaluation, the training and validation corpora are provided. Later, the test corpus will be published (without annotation).
